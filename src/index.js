@@ -1,4 +1,3 @@
-var test = 0;
 const numberArray = 3;
 const numfor = -1;
 const numReduce = 0;
